@@ -5,8 +5,10 @@ A simple yet powerful **habit tracking web app** that helps users build consiste
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)  
 ![License](https://img.shields.io/badge/license-MIT-blue)  
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)  
+this is done by dileep 
 
 ---
+
 
 ## ✨ Features
 - [ ] User Authentication (Sign up, Login, Google OAuth)
