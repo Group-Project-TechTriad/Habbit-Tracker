@@ -37,7 +37,7 @@ This is Done by Dileep .
 - Axios for API calls  
 
 **Backend:**
-- Node.js + Express  
+- NEXT.js + Express  
 - JWT Authentication  
 
 **Database:**
